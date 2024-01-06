@@ -1,0 +1,64 @@
+# Maven specific
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE-specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle specific
+/build/
+.gradle/
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment-specific files
+.env
+.env.*
+
+# Compiled Java classes
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Dependency directories
+/target/
+/bin/
+/lib/
+/build/
+
+# Application Properties
+/application.properties
+/application.yml
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Visual Studio Code
+.vscode/
+
+# Spring Boot DevTools
+.restart*
+.springBeans
+
+# macOS
+.DS_Store
+
+# Node Modules
+node_modules/
